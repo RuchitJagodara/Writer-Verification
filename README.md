@@ -8,5 +8,5 @@ Test set contains images from 360 writers. In test.csv you are given name of ima
 # References
 For our model, followong references were used.
 
-[SigNet: Convolutional Siamese Network for Writer Independent Offline Signature Verification](https://arxiv.org/pdf/1707.02131v2.pdf)
-[Attention based Writer Independent Verification](https://arxiv.org/pdf/2009.04532v3.pdf)
+1. [SigNet: Convolutional Siamese Network for Writer Independent Offline Signature Verification](https://arxiv.org/pdf/1707.02131v2.pdf)
+2. [Attention based Writer Independent Verification](https://arxiv.org/pdf/2009.04532v3.pdf)
