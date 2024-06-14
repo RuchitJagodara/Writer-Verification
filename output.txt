@@ -1,0 +1,4 @@
+Found 11843 files belonging to 2 classes.
+Using 9475 files for training.
+Found 11843 files belonging to 2 classes.
+Using 2368 files for validation.
